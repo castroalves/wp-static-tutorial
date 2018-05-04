@@ -12,24 +12,25 @@
 	<atom:link href="//castroalves.github.io/wp-static-tutorial/author/wpstatic/feed" rel="self" type="application/rss+xml" />
 	<link>//castroalves.github.io/wp-static-tutorial/</link>
 	<description>Just another Static WordPress site</description>
-	<lastBuildDate>Fri, 04 May 2018 04:55:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 May 2018 06:08:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>//castroalves.github.io/wp-static-tutorial/hello-world.html</link>
-		<comments>//castroalves.github.io/wp-static-tutorial/hello-world.html#comments</comments>
+		<title>Hello static world!</title>
+		<link>//castroalves.github.io/wp-static-tutorial/hello-static-world.html</link>
+		<comments>//castroalves.github.io/wp-static-tutorial/hello-static-world.html#comments</comments>
 		<pubDate>Fri, 04 May 2018 04:55:19 +0000</pubDate>
 		<dc:creator><![CDATA[wpstatic]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
 		<guid isPermaLink="false">//castroalves.github.io/wp-static-tutorial/?p=1</guid>
-		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+		<description><![CDATA[Welcome to WordPress. This is our first static blog post!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress.</p>
+<p>This is our first static blog post!</p>
 ]]></content:encoded>
-			<wfw:commentRss>//castroalves.github.io/wp-static-tutorial/hello-world.html/feed</wfw:commentRss>
+			<wfw:commentRss>//castroalves.github.io/wp-static-tutorial/hello-static-world.html/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>

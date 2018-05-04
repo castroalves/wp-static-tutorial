@@ -15,8 +15,8 @@
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
-		<title>Comment on Hello world! by A WordPress Commenter</title>
-		<link>//castroalves.github.io/wp-static-tutorial/hello-world.html#comment-1</link>
+		<title>Comment on Hello static world! by A WordPress Commenter</title>
+		<link>//castroalves.github.io/wp-static-tutorial/hello-static-world.html#comment-1</link>
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 04 May 2018 04:55:19 +0000</pubDate>
 		<guid isPermaLink="false">//castroalves.github.io/wp-static-tutorial/?p=1#comment-1</guid>
