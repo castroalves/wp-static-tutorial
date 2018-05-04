@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; WP Static Tutorial</title>
-	<atom:link href="/category/uncategorized/feed" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="//castroalves.github.io/wp-static-tutorial/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>//castroalves.github.io/wp-static-tutorial/</link>
 	<description>Just another Static WordPress site</description>
 	<lastBuildDate>Fri, 04 May 2018 04:55:19 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.9.5</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world.html</link>
-		<comments>/hello-world.html#comments</comments>
+		<link>//castroalves.github.io/wp-static-tutorial/hello-world.html</link>
+		<comments>//castroalves.github.io/wp-static-tutorial/hello-world.html#comments</comments>
 		<pubDate>Fri, 04 May 2018 04:55:19 +0000</pubDate>
 		<dc:creator><![CDATA[wpstatic]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">//castroalves.github.io/wp-static-tutorial/?p=1</guid>
 		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-			<wfw:commentRss>/hello-world.html/feed</wfw:commentRss>
+			<wfw:commentRss>//castroalves.github.io/wp-static-tutorial/hello-world.html/feed</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
